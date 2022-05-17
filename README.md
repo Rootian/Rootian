@@ -29,7 +29,7 @@
 #### Top Repositories
 
 
-<a href="https://github.com/DB-CarRet/Herviz">
+<a href="https://github.com/Rootian/Herviz">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rootian&repo=Herviz&theme=buefy" />
 </a>
 <a href="https://github.com/Rootian/TM_Image_Classifier">
